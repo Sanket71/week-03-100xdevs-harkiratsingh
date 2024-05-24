@@ -1,1 +1,0 @@
-# week-03-100xdevs-harkiratsingh
