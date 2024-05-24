@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const { string } = require("zod");
 
 mongoose.connect(
-  "mongodb+srv://Sanket:P37hPbj9rZPF83fs@cluster0.hxfup1q.mongodb.net/userappnew1"
+  "url"
 );
 
 // password :xVwZz7QuPxHv0j8N
